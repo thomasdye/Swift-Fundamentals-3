@@ -132,7 +132,3 @@ print("It's an \(orangeRectangle.color) rectangle!")
 
 let someString = "123"
 let myNumber = Int(someString)
-
-
-//convert user input from `String` into a number from a `UITextField`
-//walk through an app using a breakpoint and explain flow control

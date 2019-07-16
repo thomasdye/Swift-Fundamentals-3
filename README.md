@@ -65,7 +65,7 @@ var numberOfLetters = wordOfTheDay?.count ?? 0
 print("The word of the day, \(wordOfTheDay ?? "") has \(numberOfLetters) letters")
 ```
 
-##use class inheritance and composition
+## use class inheritance and composition
 ```Swift
 class Shape {
     var color: String
